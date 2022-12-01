@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @Anastasiia326
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+## Hello, welcome to my GitHub Profile
 
-<!---
-Anastasiia326/Anastasiia326 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### Here are a few things describe me:
+
+* 💼 I'm currently working full-time at Yellon as a web developer and doing as a self-employed at Upwork
+* 📝 I develop and maintain websites and applications
+* ⌨️ I spend most of my time coding HTML, CSS, JavaScript & its frameworks on both the front-end and back-end
+* 📱 I like to build apps from scratch and want long-time jobs
+
+
